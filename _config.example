@@ -1,0 +1,19 @@
+<?php
+
+return array(
+
+    //mysql
+    'db' => array(
+        'dsn' => 'mysql:host=localhost',
+        'username' => 'root',
+        'password' => 'root',
+        'charset' => 'utf8',
+    ),
+
+    //user
+    'user' => array(
+        'username' => 'admin',
+        'password' => '',
+    ),
+
+);
